@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ye Wint Naing — Call me Liam!
+# 👋 Hi, I'm Ye Wint Naing.
 
 I'm a backend engineer based in Singapore who loves building scalable, elegant systems — and tearing them apart to see what’s really going on under the hood 🛠️🧠.
 
